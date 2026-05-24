@@ -184,6 +184,21 @@
       ],
       "is_opensource": "True"
     },
+    "nousresearch": {
+      "model_name": "Hermes 3 405B",
+      "context_window": 131072,
+      "api_key": "api_key",
+      "model_type": "Cloud",
+      "reasoning": "True",
+      "reasoning_effort": "default",
+      "model_purpose": [
+        "general",
+        "roleplay",
+        "agentic",
+        "reasoning"
+      ],
+      "is_opensource": true
+    },
     "poolside/laguna-m.1:free": {
       "model_name": "poolside/laguna-m.1:free",
       "reasoning": "True",
